@@ -8,7 +8,7 @@ Python script to fetch aircraft locations from the Spidertracks API and then con
 
 # Rocky/Rhel
       sudo dnf install git
-      git clone https://github.com/SlateIntegrations-git/script-Spidertracks-python.git && cd Spidertracks-Python-Script
+      git clone https://github.com/SlateIntegrations-git/script-Spidertracks-python.git && cd script-Spidertracks-python
 # Ubuntu
       sudo apt install git
-      git clone https://github.com/SlateIntegrations-git/script-Spidertracks-python.git && cd Spidertracks-Python-Script
+      git clone https://github.com/SlateIntegrations-git/script-Spidertracks-python.git && cd script-Spidertracks-python
