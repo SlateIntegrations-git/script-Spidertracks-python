@@ -11,4 +11,4 @@ Python script to fetch aircraft locations from the Spidertracks API and then con
       git clone https://github.com/SlateIntegrations-git/script-Spidertracks-python.git && cd Spidertracks-Python-Script
 # Ubuntu
       sudo apt install git
-      git clone https://github.com/SlateIntegrations-git/script-Spidertracks-pythont.git && cd Spidertracks-Python-Script
+      git clone https://github.com/SlateIntegrations-git/script-Spidertracks-python.git && cd Spidertracks-Python-Script
